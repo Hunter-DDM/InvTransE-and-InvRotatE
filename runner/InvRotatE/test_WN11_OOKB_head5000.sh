@@ -1,0 +1,1 @@
+python3 -u codes/run.py --cuda --gpu_id 1 --ookb -sp --eval_task TC --do_test --init_checkpoint models/InversE_RotatE_WN11OOKB_head5000_final

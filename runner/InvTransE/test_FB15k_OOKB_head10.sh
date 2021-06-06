@@ -1,0 +1,1 @@
+python3 -u codes/run.py --cuda --gpu_id 3 --ookb -sp --eval_task LP --do_test --init_checkpoint models/InversE_TransE_FB15kOOKB_head10_final --data_path data/FB15k_OOKB_head10
