@@ -36,8 +36,7 @@ If you use this code for your research, please kindly cite our paper (The final 
                    Pengcheng Yang and
                    Baobao Chang and
                    Zhifang Sui},
-      title     = {Inductively Representing Out-of-Knowledge-Graph Entities by Optimal
-                   Estimation Under Translational Assumptions},
+      title     = {Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions},
       journal   = {CoRR},
       volume    = {abs/2009.12765},
       year      = {2020},
